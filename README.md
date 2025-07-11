@@ -8,11 +8,8 @@ Look for my code in the live demo.
 
 #### who can use it?
 
-The Aim game was created by Davit for gamers, specifically those who enjoy PC playing popular titles such as CS:GO, Fortnite, Call of Duty, and more.
+The Aim game was created for people who enjoy PC playing popular titles such as CS:GO, Fortnite, Call of Duty, and more.
+This is a simple game that shows my knowledge of JS.
 
-#### record
 
-The record in my game is 25 in 10 seconds. Who can achieve more?
-## 🛠 Skills
-Javascript, CSS,HTML 
 
